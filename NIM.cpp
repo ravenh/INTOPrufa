@@ -54,7 +54,7 @@ int main( )
 		}
 	}
 	while ( val != 3 );
-
+	cout << "Hjalti Hrafn Petursson";
 	return 0;
 }
 
